@@ -9,9 +9,6 @@ Skills: REACT / JS / HTML / CSS
 - 🌱 I’m currently learning BackEnd Developing hoping to be a Full-Stack Developer. 
 - ⚡ Fun fact: I Love Adventures. 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/iangrim_/)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMutisoNduya)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMutisoNduya&show_icons=true&count_private=true)  
