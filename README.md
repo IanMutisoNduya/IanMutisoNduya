@@ -1,4 +1,4 @@
-### Hi there 👋, Ian Mutiso Nduya
+### Hi there 👋,
 #### Software Developer.
 ![Software Developer.](https://media.licdn.com/dms/image/D4D16AQGcVtVMe5Ag6w/profile-displaybackgroundimage-shrink_350_1400/0/1677090863893?e=1698883200&v=beta&t=_qEwGnQM20J7Tp8kMrbJ2txXDCjIQbgWdeRtItUIhds)
 
